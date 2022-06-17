@@ -1,0 +1,16 @@
+C:\Users\015238631\Documents\Projetos.net\ClassesAbstratasExcecoes\ClassesAbstratasExcecoes\bin\Debug\net5.0\ClassesAbstratasExcecoes.exe
+C:\Users\015238631\Documents\Projetos.net\ClassesAbstratasExcecoes\ClassesAbstratasExcecoes\bin\Debug\net5.0\ClassesAbstratasExcecoes.deps.json
+C:\Users\015238631\Documents\Projetos.net\ClassesAbstratasExcecoes\ClassesAbstratasExcecoes\bin\Debug\net5.0\ClassesAbstratasExcecoes.runtimeconfig.json
+C:\Users\015238631\Documents\Projetos.net\ClassesAbstratasExcecoes\ClassesAbstratasExcecoes\bin\Debug\net5.0\ClassesAbstratasExcecoes.runtimeconfig.dev.json
+C:\Users\015238631\Documents\Projetos.net\ClassesAbstratasExcecoes\ClassesAbstratasExcecoes\bin\Debug\net5.0\ClassesAbstratasExcecoes.dll
+C:\Users\015238631\Documents\Projetos.net\ClassesAbstratasExcecoes\ClassesAbstratasExcecoes\bin\Debug\net5.0\ref\ClassesAbstratasExcecoes.dll
+C:\Users\015238631\Documents\Projetos.net\ClassesAbstratasExcecoes\ClassesAbstratasExcecoes\bin\Debug\net5.0\ClassesAbstratasExcecoes.pdb
+C:\Users\015238631\Documents\Projetos.net\ClassesAbstratasExcecoes\ClassesAbstratasExcecoes\obj\Debug\net5.0\ClassesAbstratasExcecoes.csproj.AssemblyReference.cache
+C:\Users\015238631\Documents\Projetos.net\ClassesAbstratasExcecoes\ClassesAbstratasExcecoes\obj\Debug\net5.0\ClassesAbstratasExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\015238631\Documents\Projetos.net\ClassesAbstratasExcecoes\ClassesAbstratasExcecoes\obj\Debug\net5.0\ClassesAbstratasExcecoes.AssemblyInfoInputs.cache
+C:\Users\015238631\Documents\Projetos.net\ClassesAbstratasExcecoes\ClassesAbstratasExcecoes\obj\Debug\net5.0\ClassesAbstratasExcecoes.AssemblyInfo.cs
+C:\Users\015238631\Documents\Projetos.net\ClassesAbstratasExcecoes\ClassesAbstratasExcecoes\obj\Debug\net5.0\ClassesAbstratasExcecoes.csproj.CoreCompileInputs.cache
+C:\Users\015238631\Documents\Projetos.net\ClassesAbstratasExcecoes\ClassesAbstratasExcecoes\obj\Debug\net5.0\ClassesAbstratasExcecoes.dll
+C:\Users\015238631\Documents\Projetos.net\ClassesAbstratasExcecoes\ClassesAbstratasExcecoes\obj\Debug\net5.0\ref\ClassesAbstratasExcecoes.dll
+C:\Users\015238631\Documents\Projetos.net\ClassesAbstratasExcecoes\ClassesAbstratasExcecoes\obj\Debug\net5.0\ClassesAbstratasExcecoes.pdb
+C:\Users\015238631\Documents\Projetos.net\ClassesAbstratasExcecoes\ClassesAbstratasExcecoes\obj\Debug\net5.0\ClassesAbstratasExcecoes.genruntimeconfig.cache
